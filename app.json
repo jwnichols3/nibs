@@ -1,5 +1,5 @@
 {
-    "name": "Inverness",
+    "name": "Inverness App",
     "description": "Inverness 25",
     "addons": ["heroku-postgresql:hobby-dev"]
 }
